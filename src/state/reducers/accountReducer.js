@@ -10,3 +10,6 @@ const reducer = (state = 0, action) => {
 }
 
 export default reducer;
+
+
+// Reducer is a function that ultimately returns a state
